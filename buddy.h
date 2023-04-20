@@ -19,4 +19,6 @@ int return_pages(void *p);
 int query_ranks(void *p);
 int query_page_counts(int rank);
 
+void print_link();
+
 #endif
